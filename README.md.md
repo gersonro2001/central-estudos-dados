@@ -1,4 +1,0 @@
-#Segundo Cérebro em Análise de Dados: do Excel ao Python
-##16 origens
-*Estas fontes reúnem um vasto ecossistema de aprendizagem focado em análise de dados, programação e inteligência comercial. Plataformas como o YouTube, Kaggle e W3Schools oferecem tutoriais abrangentes sobre ferramentas essenciais, incluindo Python, Excel, SQL e Power BI. Criadores especializados partilham cursos que vão desde conceitos básicos para iniciantes até técnicas avançadas de machine learning e automação com FastAPI. Os materiais incluem exercícios práticos, documentação técnica oficial e guias sobre bibliotecas fundamentais como Pandas e Matplotlib. Além do conteúdo técnico, as fontes revelam os bastidores da criação de cursos e a importância da gestão de dados no cenário tecnológico atual. Este conjunto serve como um roteiro completo para quem procura dominar a ciência de dados e o desenvolvimento de software de forma gratuita ou estruturada.
-
